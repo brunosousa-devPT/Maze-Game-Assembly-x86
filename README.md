@@ -12,3 +12,4 @@ I know the programming is not good, but this was literally my first project in a
 I might improve this game or just create a better version of it. 
 
 
+![image](https://user-images.githubusercontent.com/84191299/121736191-2748a980-caef-11eb-9e94-37467cfd8b6d.png)
