@@ -1,0 +1,10 @@
+Bruno   690
+Gabriel 640
+Gabriel 590
+Bruno   570
+Gabriel 520
+Gabriel 500
+Bruno   480
+Gabriel 440
+Bruno   400
+Gabriel 380
